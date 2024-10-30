@@ -1,0 +1,9 @@
+.main_footer {
+    @apply py-8 bg-[#000] 
+}
+.contain {
+    @apply flex  gap-[400px] text-amber-50 justify-center
+}
+ul li a {
+    @apply text-amber-50
+}

@@ -1,0 +1,16 @@
+.main {
+    @apply py-5 bg-[#D76C82]
+}
+
+.logo img {
+    @apply w-[50px] h-[50px]
+}
+.content {
+    @apply flex justify-between items-center
+}
+.main ul {
+    @apply flex gap-[20px]
+}
+.main ul li a{
+    @apply text-[24px] font-bold text-[#133E87] 
+}
